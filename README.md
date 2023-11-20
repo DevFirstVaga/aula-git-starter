@@ -1,8 +1,13 @@
-# React + Vite
+# Aula GIT by drewdomi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 💭 Oque é esse projeto?
+Bem vindo!! Nesse repositório pretendo dar uma breve introdução do que sería um uso mais normal do Git.
 
-Currently, two official plugins are available:
+## 🔥 Como usar esse projeto?
+- Primeiro faça um fork desse repositório clicando no botão fork, será feito uma copia do repositorio para seu GitHub pessoal. Agora você pode fazer qualquer alteração que quiser!!
+- Faça um clone do repositório para seu pc.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Realize essas operações
+- **Crie uma branch de funcionalidade**, ex: button
+- **Faça um Pull Request para develop**
+- **Resolva os conflitos quando tiver** 
