@@ -1,7 +1,11 @@
-function App() {
+
+import { Footer } from './components/Footer'
+
+function App () {
   return (
     <>
-      <h1 className="text-3xl">Hello React</h1>     
+      <h1 className="text-3xl">Hello React</h1>
+      <Footer />
     </>
   )
 }
