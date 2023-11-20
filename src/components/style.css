@@ -1,0 +1,6 @@
+li{
+  @apply
+  text-[20px]
+  cursor-pointer
+  hover:underline
+}
